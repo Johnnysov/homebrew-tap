@@ -2,7 +2,7 @@ class Termchat < Formula
   desc "Simple TCP terminal chat server and client"
   homepage "https://github.com/Johnnysov/termchat"
   url "https://github.com/Johnnysov/termchat/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "186e81e036f69f34ebb70776e5c4292419d694256d30f4d27ce75edcbd112d7b"
   license "MIT"
 
   depends_on "node"
